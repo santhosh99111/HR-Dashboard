@@ -53,4 +53,4 @@ Employee satisfaction seems low with a significant number indicating only "accep
 Highest performance ratings are in "Needs Improvement," suggesting potential issues with employee productivity or motivation.
 
 
-![Alt text] (IMG_20250225_184233.jpg)
+![Alt Text]()
